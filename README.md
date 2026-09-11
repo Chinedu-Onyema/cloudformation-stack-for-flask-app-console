@@ -2,6 +2,9 @@
 
 This is a complete, step-by-step walkthrough for provisioning the core AWS infrastructure for a Flask-based Employee Directory application using the AWS Management Console and CloudFormation templates.
 
+### WATCH VIDEO WALKTHROUGH HERE: https://youtu.be/s5qtAOd_GDc
+
+
 ## PREREQUISITES
 An active AWS Account with permissions to manage CloudFormation, EC2, VPCs, IAM, and RDS resources.
 
